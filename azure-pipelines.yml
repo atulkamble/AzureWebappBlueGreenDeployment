@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  azureSubscription: 'webapp-connection'
+  azureSubscription: 'webapp2-connection'
   webAppName: 'mywebapp6876876'
   resourceGroupName: 'webapp'
   slotName: 'staging'
